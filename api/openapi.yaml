@@ -134,8 +134,6 @@ paths:
           */
         export function pregetAllproduct(param) {
           // insert code here
-          const first1 = Product.slice(0, 1);
-          console.log(first1);
         }
       x-custom-code-prefix: pre
       x-eov-operation-handler: controllers/ProductController
